@@ -1,0 +1,15 @@
+{"time":"2025-08-05T10:41:08.636221312+08:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/home/gtl/LLaVA-main/wandb/offline-run-20250805_104108-sthse4n5/logs/debug-core.log"}
+{"time":"2025-08-05T10:41:08.754581285+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-08-05T10:41:08.754798014+08:00","level":"INFO","msg":"stream: created new stream","id":"sthse4n5"}
+{"time":"2025-08-05T10:41:08.754835387+08:00","level":"INFO","msg":"stream: started","id":"sthse4n5"}
+{"time":"2025-08-05T10:41:08.754874118+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"sthse4n5"}
+{"time":"2025-08-05T10:41:08.754883718+08:00","level":"INFO","msg":"sender: started","stream_id":"sthse4n5"}
+{"time":"2025-08-05T10:41:08.754903237+08:00","level":"INFO","msg":"handler: started","stream_id":"sthse4n5"}
+{"time":"2025-08-05T10:41:08.7642911+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-08-06T08:15:56.329756249+08:00","level":"INFO","msg":"stream: closing","id":"sthse4n5"}
+{"time":"2025-08-06T08:15:56.329819272+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-08-06T08:15:56.329942497+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-08-06T08:15:56.330156812+08:00","level":"INFO","msg":"handler: closed","stream_id":"sthse4n5"}
+{"time":"2025-08-06T08:15:56.330178905+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"sthse4n5"}
+{"time":"2025-08-06T08:15:56.330214922+08:00","level":"INFO","msg":"sender: closed","stream_id":"sthse4n5"}
+{"time":"2025-08-06T08:15:56.330307638+08:00","level":"INFO","msg":"stream: closed","id":"sthse4n5"}

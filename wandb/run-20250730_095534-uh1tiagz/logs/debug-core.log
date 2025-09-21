@@ -1,0 +1,6 @@
+{"time":"2025-07-30T09:55:34.139469051+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpigb9gltb/port-536732.txt","pid":536732,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-07-30T09:55:34.146671636+08:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":536732}
+{"time":"2025-07-30T09:55:34.146704614+08:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":38609,"Zone":""}}
+{"time":"2025-07-30T09:55:34.307622509+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:45928"}
+{"time":"2025-07-30T09:55:34.320065313+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"uh1tiagz","id":"127.0.0.1:45928"}
+{"time":"2025-07-30T09:57:29.503787344+08:00","level":"INFO","msg":"received shutdown signal","signal":15}

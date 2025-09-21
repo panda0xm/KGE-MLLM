@@ -1,0 +1,15 @@
+{"time":"2025-07-30T11:01:48.235694258+08:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/home/gtl/LLaVA-main/wandb/offline-run-20250730_110148-u5dy4cej/logs/debug-core.log"}
+{"time":"2025-07-30T11:01:48.454600986+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-07-30T11:01:48.454793612+08:00","level":"INFO","msg":"stream: created new stream","id":"u5dy4cej"}
+{"time":"2025-07-30T11:01:48.454837647+08:00","level":"INFO","msg":"stream: started","id":"u5dy4cej"}
+{"time":"2025-07-30T11:01:48.454870785+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"u5dy4cej"}
+{"time":"2025-07-30T11:01:48.454885036+08:00","level":"INFO","msg":"handler: started","stream_id":"u5dy4cej"}
+{"time":"2025-07-30T11:01:48.454899112+08:00","level":"INFO","msg":"sender: started","stream_id":"u5dy4cej"}
+{"time":"2025-07-30T11:01:48.463817743+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-30T11:23:17.48882338+08:00","level":"INFO","msg":"stream: closing","id":"u5dy4cej"}
+{"time":"2025-07-30T11:23:17.488903578+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-30T11:23:17.489021232+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-30T11:23:17.48923561+08:00","level":"INFO","msg":"handler: closed","stream_id":"u5dy4cej"}
+{"time":"2025-07-30T11:23:17.489257217+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"u5dy4cej"}
+{"time":"2025-07-30T11:23:17.48929911+08:00","level":"INFO","msg":"sender: closed","stream_id":"u5dy4cej"}
+{"time":"2025-07-30T11:23:17.489387271+08:00","level":"INFO","msg":"stream: closed","id":"u5dy4cej"}

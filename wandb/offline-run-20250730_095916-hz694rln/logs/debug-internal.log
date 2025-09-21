@@ -1,0 +1,8 @@
+{"time":"2025-07-30T09:59:16.624741166+08:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/home/gtl/LLaVA-main/wandb/offline-run-20250730_095916-hz694rln/logs/debug-core.log"}
+{"time":"2025-07-30T09:59:16.842838563+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-07-30T09:59:16.843038873+08:00","level":"INFO","msg":"stream: created new stream","id":"hz694rln"}
+{"time":"2025-07-30T09:59:16.843077747+08:00","level":"INFO","msg":"stream: started","id":"hz694rln"}
+{"time":"2025-07-30T09:59:16.843114936+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"hz694rln"}
+{"time":"2025-07-30T09:59:16.843130852+08:00","level":"INFO","msg":"sender: started","stream_id":"hz694rln"}
+{"time":"2025-07-30T09:59:16.843155137+08:00","level":"INFO","msg":"handler: started","stream_id":"hz694rln"}
+{"time":"2025-07-30T09:59:16.852563078+08:00","level":"INFO","msg":"Starting system monitor"}

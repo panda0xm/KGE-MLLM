@@ -1,0 +1,7 @@
+{"time":"2025-07-30T09:59:16.444214018+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpia8w86n1/port-540816.txt","pid":540816,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-07-30T09:59:16.446086119+08:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":540816}
+{"time":"2025-07-30T09:59:16.446095011+08:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":44705,"Zone":""}}
+{"time":"2025-07-30T09:59:16.608959129+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:46408"}
+{"time":"2025-07-30T09:59:16.620409781+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"hz694rln","id":"127.0.0.1:46408"}
+{"time":"2025-07-30T09:59:16.843089331+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"hz694rln","id":"127.0.0.1:46408"}
+{"time":"2025-07-30T10:09:10.249895744+08:00","level":"INFO","msg":"received shutdown signal","signal":15}

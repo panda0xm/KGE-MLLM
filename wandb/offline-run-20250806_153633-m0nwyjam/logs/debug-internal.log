@@ -1,0 +1,15 @@
+{"time":"2025-08-06T15:36:34.078687146+08:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/home/gtl/LLaVA-main/wandb/offline-run-20250806_153633-m0nwyjam/logs/debug-core.log"}
+{"time":"2025-08-06T15:36:34.296100101+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-08-06T15:36:34.29625546+08:00","level":"INFO","msg":"stream: created new stream","id":"m0nwyjam"}
+{"time":"2025-08-06T15:36:34.296287557+08:00","level":"INFO","msg":"stream: started","id":"m0nwyjam"}
+{"time":"2025-08-06T15:36:34.296318284+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"m0nwyjam"}
+{"time":"2025-08-06T15:36:34.296349677+08:00","level":"INFO","msg":"handler: started","stream_id":"m0nwyjam"}
+{"time":"2025-08-06T15:36:34.296380474+08:00","level":"INFO","msg":"sender: started","stream_id":"m0nwyjam"}
+{"time":"2025-08-06T15:36:34.305669197+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-08-06T15:37:09.610868158+08:00","level":"INFO","msg":"stream: closing","id":"m0nwyjam"}
+{"time":"2025-08-06T15:37:09.610944058+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-08-06T15:37:09.611045194+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-08-06T15:37:09.611255041+08:00","level":"INFO","msg":"handler: closed","stream_id":"m0nwyjam"}
+{"time":"2025-08-06T15:37:09.611276446+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"m0nwyjam"}
+{"time":"2025-08-06T15:37:09.611289239+08:00","level":"INFO","msg":"sender: closed","stream_id":"m0nwyjam"}
+{"time":"2025-08-06T15:37:09.611393941+08:00","level":"INFO","msg":"stream: closed","id":"m0nwyjam"}
