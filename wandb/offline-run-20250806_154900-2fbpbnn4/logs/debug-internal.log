@@ -1,0 +1,8 @@
+{"time":"2025-08-06T15:49:01.206797267+08:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/home/gtl/LLaVA-main/wandb/offline-run-20250806_154900-2fbpbnn4/logs/debug-core.log"}
+{"time":"2025-08-06T15:49:01.42447431+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-08-06T15:49:01.424638281+08:00","level":"INFO","msg":"stream: created new stream","id":"2fbpbnn4"}
+{"time":"2025-08-06T15:49:01.424669569+08:00","level":"INFO","msg":"stream: started","id":"2fbpbnn4"}
+{"time":"2025-08-06T15:49:01.424711225+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"2fbpbnn4"}
+{"time":"2025-08-06T15:49:01.424722682+08:00","level":"INFO","msg":"sender: started","stream_id":"2fbpbnn4"}
+{"time":"2025-08-06T15:49:01.424738618+08:00","level":"INFO","msg":"handler: started","stream_id":"2fbpbnn4"}
+{"time":"2025-08-06T15:49:01.434629337+08:00","level":"INFO","msg":"Starting system monitor"}
